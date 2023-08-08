@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'open_sansCnLtIt';
+    src: url('../fonts/opensans-condlightitalic-webfont.eot');
+    src: url('../fonts/opensans-condlightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-condlightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-condlightitalic-webfont.woff') format('woff'),
+         url('../fonts/opensans-condlightitalic-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-condlightitalic-webfont.svg#open_sansCnLtIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
